@@ -1,5 +1,5 @@
-CSCB58 Final project
+A video demonstration:
 
-A Horizontal Scrolling Space Game (MARS 4.5 / MIPS)
+	https://www.youtube.com/watch?v=4OutGOcvWQc
 
 For information and specifications, see the "Assembly Project Handout" PDF
